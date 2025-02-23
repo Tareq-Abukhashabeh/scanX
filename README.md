@@ -45,7 +45,7 @@ sudo ./scanner.sh (# Note Root privileges are required for advanced scanning)
 
 
 📸 Screenshots
-![Nmap Example](images/NMAP.png)
+![Nmap Example](images/LOGO.png)
 
 
 ⚡ Requirements
