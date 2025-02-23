@@ -23,6 +23,7 @@
 ### **1️⃣ Clone the repository**
 
 git clone https://github.com/Tareq-Abukhashabeh/scanX.git
+
 cd ScanX
 
 ### **2️⃣ Give execution permission**
