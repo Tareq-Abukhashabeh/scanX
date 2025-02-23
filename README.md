@@ -22,7 +22,7 @@
 
 ### **1️⃣ Clone the repository**
 
-git clone https://github.com/Tareq-Abukhashabeh/scanner-tool.git
+git clone https://github.com/Tareq-Abukhashabeh/scanX.git
 cd scanner-tool
 
 ### **2️⃣ Give execution permission**
@@ -37,18 +37,11 @@ sudo ./scanner.sh (# Note Root privileges are required for advanced scanning)
 📌 Follow the menu to select your desired scan!
 
 
-🔍 Example: Running a Full Port Scan
-[1] Choose "Deep scan (Nmap)"
-[2] Select "Full Port Scan (-p-)"
-[3] Enter target IP: 192.168.1.1
-✅ Result: It will scan all 65,535 ports and display open ones.
-
-
-📸 Screenshots
+### **📸 Screenshots For Menu**
 ![Nmap Example](images/LOGO.png)
 
 
-⚡ Requirements
+### **⚡ Requirements**
 🔹 Operating System: Linux (Ubuntu, Kali, Debian)
 🔹 Dependencies:
 
@@ -64,23 +57,23 @@ sublist3r
 The script will automatically check and install missing tools if you approve.
 
 
-⚠️ Disclaimer
+### **⚠️ Disclaimer**
 This tool is intended for ethical hacking, penetration testing, and cybersecurity learning.
 The developer is not responsible for any misuse or illegal activities.
 Please ensure you have permission before scanning any system.
 
-📜 License
+### **📜 License**
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
-📅 Changelog
+### **📅 Changelog**
 See CHANGELOG.md for version history.
 
-🌟 Support & Feedback
+### **🌟 Support & Feedback**
 📌 Issues? Suggestions? Open an issue or pull request on GitHub!
 📌 Don't forget to ⭐ Star the Repo! 😊
 
-📢 Credits
+### **📢 Credits**
 🔹 Author: Tareq Abu Khashabeh(0xT00)
 🔹 GitHub: Tareq-Abukhashabeh
 🔹 Follow for updates! 🚀
