@@ -1,5 +1,5 @@
 # 🚀 ScanX - Advanced Network Security Scanner
- ![Scanner Banner](images/banner.jpeg)
+   - -  -  -  -  ![Scanner Banner](images/banner.jpeg)
 
 **Network Security Scanner** is an advanced **Bash-based** security scanning tool that allows users to scan networks, detect vulnerabilities, and gather intelligence on web targets.
 
