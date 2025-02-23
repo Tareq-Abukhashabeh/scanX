@@ -19,7 +19,7 @@
 ## 🚀 Installation
 
 ### **1️⃣ Clone the repository**
-```bash
+
 git clone https://github.com/Tareq-Abukhashabeh/scanner-tool.git
 cd scanner-tool
 
