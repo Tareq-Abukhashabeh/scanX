@@ -23,13 +23,13 @@
 ### **1️⃣ Clone the repository**
 
 git clone https://github.com/Tareq-Abukhashabeh/scanX.git
-cd scanner-tool
+cd ScanX
 
 ### **2️⃣ Give execution permission**
-chmod +x scanner.sh
+chmod +x scanX.sh
 
 ### **3️⃣ Run the script**
-sudo ./scanner.sh (# Note Root privileges are required for advanced scanning)
+sudo ./scanX.sh (# Note Root privileges are required for advanced scanning)
 
 🔹 Usage
 🔍 Run a Quick Nmap Scan
