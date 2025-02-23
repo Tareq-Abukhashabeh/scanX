@@ -1,5 +1,5 @@
 # 🚀 ScanX - Advanced Network Security Scanner
-![Scanner Banner](images/logo.png)
+![Scanner Banner](images/LOGO.png)
 
 **Network Security Scanner** is an advanced **Bash-based** security scanning tool that allows users to scan networks, detect vulnerabilities, and gather intelligence on web targets.
 
@@ -44,7 +44,7 @@ sudo ./scanner.sh (# Note Root privileges are required for advanced scanning)
 
 📸 Screenshots
 ![Nmap Example](images/NMAP.png)
-![Netcat Example](images/NMAP.png)
+
 
 ⚡ Requirements
 🔹 Operating System: Linux (Ubuntu, Kali, Debian)
