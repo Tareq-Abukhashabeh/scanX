@@ -75,6 +75,6 @@ See CHANGELOG.md for version history.
 📌 Don't forget to ⭐ Star the Repo! 😊
 
 ### **📢 Credits**
-🔹 Author: Tareq Abu Khashabeh(0xT00)
+🔹 Author: Tareq Abu Khashabeh(DRX0)
 🔹 GitHub: Tareq-Abukhashabeh
 🔹 Follow for updates! 🚀
